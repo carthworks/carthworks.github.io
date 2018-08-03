@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Karthikeyan Thiagarajan
+subtitle: USER EXPERIENCE / USER INTERFACE
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, my name is Karthikeyan ..  My career began as  desginer and I':
 
 - I rock a great mustache
-- I'm extremely loyal to my family
+- I'm extremely loyal to my familyve arrivved as an al around UX designer, UI developer
 
 What else do you need?
 
