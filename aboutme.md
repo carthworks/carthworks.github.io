@@ -4,10 +4,9 @@ title: Karthikeyan Thiagarajan
 subtitle: USER EXPERIENCE / USER INTERFACE
 ---
 
-Hello, my name is Karthikeyan ..  My career began as  desginer and I':
+Hello, my name is Karthikeyan ..
 
-- I rock a great mustache
-- I'm extremely loyal to my familyve arrivved as an al around UX designer, UI developer
+- I'm a UAE based UX designer & front‑end developer focused on crafting clean  & user‑friendly experiences.
 
 What else do you need?
 
